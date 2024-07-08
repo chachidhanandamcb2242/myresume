@@ -1,0 +1,62 @@
+.col-50
+{
+    float:left;
+    width:50%;
+
+}
+.col-50
+{
+    float:left;
+    width:50%;
+}
+.col-20
+{
+    float:left;
+    width:20%;
+}
+.col-30
+{
+    float:left;
+}
+.row::after
+{
+    display:table;
+}
+.boxa
+{
+    height: 100px;
+    width:100%;
+}
+.boxb, .boxc, .boxd, .boxe, .boxf, .boxg, .boxh
+{
+    border:3px solid black;
+    background-color:white;
+    height:35px;
+    
+}
+h4
+{
+    margin: 5px 5px;
+    
+}
+.container
+{
+    border: 10px solid gold;
+    background-color: silver;
+    
+}
+img
+{
+    height:115px;
+    width:100px;
+}
+table
+{
+    border:1px solid black;
+    width:100%;
+}
+th, td
+{
+    text-align: center;
+    border: 1px solid black;
+}
